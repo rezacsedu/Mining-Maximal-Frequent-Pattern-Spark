@@ -4,6 +4,7 @@ Implementation of Static mining part of "Mining maximal frequent patterns in tra
 Note that the dynamic streaming implementation is done but not openly available now as we're working on extension at the moment. Nevertheless, if you want to cite our work, please do so as follows: 
 
 '''
+
 @article{KARIM2018278,
 title = "Mining maximal frequent patterns in transactional databases and dynamic data streams: A spark-based approach",
 journal = "Information Sciences",
